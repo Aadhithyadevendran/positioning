@@ -449,7 +449,7 @@ input {
     .navbar {
         position: fixed;
         background-color: #0b0c10;
-        height: 10%;
+        height: 9%;
         width: 100%;
         display: flex;
         color: azure;
