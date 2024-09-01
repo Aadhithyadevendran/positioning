@@ -387,7 +387,9 @@ box-icon {
         flex-basis: 30%;
     }
 
-
+    input{
+    font-size: 20px;
+}
 
 
 
@@ -509,6 +511,9 @@ box-icon {
         margin-top: 4%;
     }
 
+     input{
+    font-size: 16px;
+}
     h1 {
         font-size: 30px;
     }
